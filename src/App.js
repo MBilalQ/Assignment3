@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Games name="My" pcGame="Call of Duty" mobileGame="Clash Royale" physicalGame="Cricket" />
-      <Games name="My Friend's" pcGame="CS GO" mobileGame="PUBG" physicalGame="Cricket" />
+      <Games name="My Friend's" pcGame="CS GO" mobileGame="Fifa Mobile" physicalGame="Cricket" />
     </div>
   );
 }
