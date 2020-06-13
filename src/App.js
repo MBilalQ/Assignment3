@@ -1,0 +1,14 @@
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Games from './games.js';
+
+function App() {
+  return (
+    <div>
+      <Games name="My" pcGame="Call of Duty" mobileGame="Clash Royale" physicalGame="Cricket" />
+    </div>
+  );
+}
+
+export default App;
